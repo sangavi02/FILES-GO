@@ -34,3 +34,5 @@ The user can share a wide range of files using this application.
 📌Create the HTTP request.
 
 📌Display the QR code in browser.
+
+
